@@ -27,7 +27,7 @@
                     children: (0, s.jsx)("img", {
                       src: "static/img/single-blog.jpg",
                       title: "",
-                      alt: "",
+                      alt: "Md Nobir Hasan",
                     }),
                   }),
                   (0, s.jsx)("div", {
@@ -59,7 +59,7 @@
                                       children: (0, s.jsx)("img", {
                                         src: "static/img/team-1.jpg",
                                         title: "",
-                                        alt: "",
+                                        alt: "Md Nobir Hasan",
                                       }),
                                     }),
                                     (0, s.jsxs)("div", {

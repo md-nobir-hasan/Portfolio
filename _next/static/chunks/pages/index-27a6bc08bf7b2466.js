@@ -88,7 +88,7 @@
                             children: (0, i.jsx)("img", {
                               src: "static/img/home-banner.png",
                               title: "",
-                              alt: "",
+                              alt: "Md Nobir Hasan",
                             }),
                           }),
                         }),

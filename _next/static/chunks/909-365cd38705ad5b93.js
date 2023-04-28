@@ -189,7 +189,7 @@
                                 children: (0, a.jsx)("img", {
                                   src: "static/img/about-me.jpg",
                                   title: "",
-                                  alt: "",
+                                  alt: "Md Nobir Hasan",
                                 }),
                               }),
                               (0, a.jsx)("h5", { children: "Nobir" }),

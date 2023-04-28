@@ -62,7 +62,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-1.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
@@ -102,7 +102,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-2.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
@@ -142,7 +142,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-3.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
@@ -182,7 +182,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-6.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
@@ -225,7 +225,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-5.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
@@ -265,7 +265,7 @@
                                     children: (0, l.jsx)("img", {
                                       src: "static/img/blog-4.jpg",
                                       title: "",
-                                      alt: "",
+                                      alt: "Md Nobir Hasan",
                                     }),
                                   }),
                                 }),
