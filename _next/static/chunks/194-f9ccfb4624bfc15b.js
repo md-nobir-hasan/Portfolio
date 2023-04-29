@@ -111,14 +111,14 @@
                                 children: [
                                   (0, l.jsx)("a", {
                                     className: "px-btn px-btn-theme",
-                                    href: "#",
+                                    href: "#contactus",
                                     children: (0, l.jsx)("span", {
                                       children: "Contact Me",
                                     }),
                                   }),
                                   (0, l.jsx)("a", {
                                     className: "px-btn px-btn-theme",
-                                    href: "#",
+                                    href: "#work",
                                     children: (0, l.jsx)("span", {
                                       children: "Portfolio",
                                     }),
@@ -147,40 +147,93 @@
                       children: (0, l.jsxs)("ul", {
                         className: "aducation-box",
                         children: [
+                        //   (0, l.jsxs)("li", {
+                        //     children: [
+                        //       (0, l.jsx)("span", { children: "2015-2016" }),
+                        //       (0, l.jsx)("h6", {
+                        //         children: "Secondery School Certificate",
+                        //       }),
+                        //       (0, l.jsx)("p", {
+                        //         children: "Kotali High School",
+                        //       }),
+                        //     ],
+                        //   }),
+                        //   (0, l.jsxs)("li", {
+                        //     children: [
+                        //       (0, l.jsx)("span", { children: "2017-2018" }),
+                        //       (0, l.jsx)("h6", {
+                        //         children: "Heigher School Ceritficate",
+                        //       }),
+                        //       (0, l.jsx)("p", {
+                        //         children: "Chuadanga Govt. College",
+                        //       }),
+                        //     ],
+                        //   }),
+
+                        //   (0, l.jsxs)("li", {
+                        //     children: [
+                        //       (0, l.jsx)("span", { children: "2020-Continued" }),
+                        //       (0, l.jsx)("h6", {
+                        //         children: "Bechalor of Science",
+                        //       }),
+                        //       (0, l.jsx)("p", {
+                        //         children:
+                        //           "Sher-e-bangla Agricultural University",
+                        //       }),
+                        //     ],
+                        //   }),
+                          
                           (0, l.jsxs)("li", {
                             children: [
-                              (0, l.jsx)("span", { children: "2015-2016" }),
+                              (0, l.jsx)("span", { children: "Jul 2021 - Jan 2022" }),
                               (0, l.jsx)("h6", {
-                                children: "Secondery School Certificate",
-                              }),
-                              (0, l.jsx)("p", {
-                                children: "Kotali High School",
-                              }),
-                            ],
-                          }),
-                          (0, l.jsxs)("li", {
-                            children: [
-                              (0, l.jsx)("span", { children: "2017-2018" }),
-                              (0, l.jsx)("h6", {
-                                children: "Heigher School Ceritficate",
-                              }),
-                              (0, l.jsx)("p", {
-                                children: "Chuadanga Govt. College",
-                              }),
-                            ],
-                          }),
-                          (0, l.jsxs)("li", {
-                            children: [
-                              (0, l.jsx)("span", { children: "2020-Continue" }),
-                              (0, l.jsx)("h6", {
-                                children: "Bechalor of Science",
+                                children: "CSS Course",
                               }),
                               (0, l.jsx)("p", {
                                 children:
-                                  "Sher-e-bangla Agricultural University",
+                                  "From Digital IT",
                               }),
                             ],
                           }),
+
+                          (0, l.jsxs)("li", {
+                            children: [
+                              (0, l.jsx)("span", { children: "Oct 2021 - Mar 2022" }),
+                              (0, l.jsx)("h6", {
+                                children: "PHP Course",
+                              }),
+                              (0, l.jsx)("p", {
+                                children:
+                                  "From eShikhon",
+                              }),
+                            ],
+                          }),
+                          (0, l.jsxs)("li", {
+                            children: [
+                              (0, l.jsx)("span", { children: "Jan 2022- Jun 2022" }),
+                              (0, l.jsx)("h6", {
+                                children: "Laravel Course",
+                              }),
+                              (0, l.jsx)("p", {
+                                children:
+                                  "From European IT Institute",
+                              }),
+                            ],
+                          }),
+
+                          (0, l.jsxs)("li", {
+                            children: [
+                              (0, l.jsx)("span", { children: "Jul 2022- Jan 2023" }),
+                              (0, l.jsx)("h6", {
+                                children: "Internee On Web Development",
+                              }),
+                              (0, l.jsx)("p", {
+                                children:
+                                  "European IT Institute (6 Months)",
+                              }),
+                            ],
+                          }),
+
                         ],
                       }),
                     }),
@@ -453,11 +506,11 @@
                               className: "rb-right",
                               children: [
                                 (0, l.jsx)("h6", {
-                                  children: "Full Stack Web Developer",
+                                  children: "Web Designer",
                                 }),
                                 (0, l.jsx)("label", {
                                   children:
-                                    "WeLab | Remote | Jan 2019 - Present",
+                                    "Web Foundation IT | Remote | Nov 2021 - Jun-2022",
                                 }),
                                 (0, l.jsx)("div", {
                                   className: "rb-time",
@@ -495,53 +548,11 @@
                               className: "rb-right",
                               children: [
                                 (0, l.jsx)("h6", {
-                                  children: "Full Stack Web Developer",
+                                  children: "Web Developer",
                                 }),
                                 (0, l.jsx)("label", {
                                   children:
-                                    "WeLab | Remote | Jan 2019 - Present",
-                                }),
-                                (0, l.jsx)("div", {
-                                  className: "rb-time",
-                                  children: "Full Time",
-                                }),
-                                (0, l.jsx)("p", {
-                                  children:
-                                    "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.",
-                                }),
-                              ],
-                            }),
-                          }),
-                        ],
-                      }),
-                    }),
-                    (0, l.jsx)("div", {
-                      className: "resume-row",
-                      children: (0, l.jsxs)("div", {
-                        className: "row",
-                        children: [
-                          (0, l.jsx)("div", {
-                            className: "col-sm-3 col-md-3 col-xl-2",
-                            children: (0, l.jsx)("div", {
-                              className: "rb-left",
-                              children: (0, l.jsx)("img", {
-                                src: "static/img/a3.png",
-                                title: "",
-                                alt: "",
-                              }),
-                            }),
-                          }),
-                          (0, l.jsx)("div", {
-                            className: "col-sm-9 col-md-9 col-xl-10",
-                            children: (0, l.jsxs)("div", {
-                              className: "rb-right",
-                              children: [
-                                (0, l.jsx)("h6", {
-                                  children: "Full Stack Web Developer",
-                                }),
-                                (0, l.jsx)("label", {
-                                  children:
-                                    "WeLab | Remote | Jan 2019 - Present",
+                                    "European IT | On Site | Jul 2022 - Jan 2023",
                                 }),
                                 (0, l.jsx)("div", {
                                   className: "rb-time",
@@ -1020,7 +1031,7 @@
                           className: "embed-responsive embed-responsive-21by9",
                           children: (0, n.jsx)("iframe", {
                             className: "embed-responsive-item",
-                            src: "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883",
+                            src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.3032298408093!2d90.3761821752117!3d23.772214078655463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c75239f76ab5%3A0x23a1c9a8e4197f2e!2sNawab%20Siraj-Ud-Doula%20Hall%20(SAU)!5e0!3m2!1sen!2sbd!4v1682740396502!5m2!1sen!2sbd",
                             allowFullScreen: "",
                           }),
                         }),
@@ -1134,54 +1145,12 @@
                         className: "feature-box-01 media",
                         children: [
                           (0, l.jsx)("i", {
-                            className: "icon theme-bg icon-mobile",
-                          }),
-                          (0, l.jsxs)("div", {
-                            className: "feature-content media-body",
-                            children: [
-                              (0, l.jsx)("h5", { children: "Web Design" }),
-                              (0, l.jsx)("p", {
-                                children:
-                                  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                    }),
-                    (0, l.jsx)("div", {
-                      className: "col-sm-6 m-15px-tb",
-                      children: (0, l.jsxs)("div", {
-                        className: "feature-box-01 media",
-                        children: [
-                          (0, l.jsx)("i", {
-                            className: "icon theme-bg icon-desktop",
-                          }),
-                          (0, l.jsxs)("div", {
-                            className: "feature-content media-body",
-                            children: [
-                              (0, l.jsx)("h5", { children: "Web Development" }),
-                              (0, l.jsx)("p", {
-                                children:
-                                  "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-                              }),
-                            ],
-                          }),
-                        ],
-                      }),
-                    }),
-                    (0, l.jsx)("div", {
-                      className: "col-sm-6 m-15px-tb",
-                      children: (0, l.jsxs)("div", {
-                        className: "feature-box-01 media",
-                        children: [
-                          (0, l.jsx)("i", {
                             className: "icon theme-bg icon-target",
                           }),
                           (0, l.jsxs)("div", {
                             className: "feature-content media-body",
                             children: [
-                              (0, l.jsx)("h5", { children: "SEO Marketing" }),
+                              (0, l.jsx)("h5", { children: "Optimization" }),
                               (0, l.jsx)("p", {
                                 children:
                                   "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -1193,8 +1162,9 @@
                     }),
                   ],
                 }),
-                (0, l.jsx)("div", { className: "separated" }),
-                (0, l.jsx)(c, {}),
+
+                // (0, l.jsx)("div", { className: "separated" }),
+                // (0, l.jsx)(c, {}),
               ],
             }),
           });

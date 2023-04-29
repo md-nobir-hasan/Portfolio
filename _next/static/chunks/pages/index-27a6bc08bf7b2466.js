@@ -74,7 +74,7 @@
                                 className: "btn-bar",
                                 children: (0, i.jsx)("a", {
                                   className: "px-btn px-btn-theme",
-                                  href: "#",
+                                  href: "/file.sql",
                                   children: "Donwload CV",
                                 }),
                               }),

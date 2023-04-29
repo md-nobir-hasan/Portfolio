@@ -203,13 +203,15 @@
                       className: "nav justify-content-center social-icons",
                       children: [
                         (0, a.jsx)("a", {
-                          href: "#",
+                          href: "https://www.facebook.com/md.nobir.hasan.sau",
+                          target: '_blank',
                           children: (0, a.jsx)("i", {
                             className: "fab fa-facebook-f",
                           }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "#",
+                          href: "https://twitter.com/Md_Nobir_Hasan",
+                          target: '_blank',
                           children: (0, a.jsx)("i", {
                             className: "fab fa-twitter",
                           }),
@@ -221,7 +223,8 @@
                           }),
                         }),
                         (0, a.jsx)("a", {
-                          href: "#",
+                          href: "https://www.linkedin.com/in/md-nobir-hasan/",
+                          target: '_blank',
                           children: (0, a.jsx)("i", {
                             className: "fab fa-linkedin-in",
                           }),
