@@ -45,6 +45,24 @@ img {
 * {
   outline: none !important;
 }
+.flex{
+  display: flex;
+}
+.justify-between{
+  justify-content: space-between;
+}
+.items-center{
+  align-items: center;
+}
+.w49{
+  width: 49% !important;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.mt25{
+  margin-top: 25px;
+}
 
 a {
   color: #2fbf71;
@@ -1670,7 +1688,7 @@ mark {
   top: -5px;
 }
 .skill-lt:not(:first-child) {
-  margin-top: 25px;
+  /* margin-top: 25px; */
 }
 .skill-lt h6 {
   font-size: 14px;
