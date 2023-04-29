@@ -54,7 +54,7 @@
                   (0, i.jsx)("link", {
                     rel: "shortcut icon",
                     type: "image/x-icon",
-                    href: "/favicon.ico",
+                    href: "/letter-n.png",
                   }),
                   (0, i.jsx)("link", {
                     href: "static/plugin/bootstrap/css/bootstrap.min.css",
